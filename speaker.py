@@ -138,16 +138,6 @@ transcribe_file("output.mp3")
 
 
 
-
-
-
-
-
-
-
-
-
-#
 # def record_file(time):
 #     language_code = 'en-US'  # a BCP-47 language tag
 #     words = []
@@ -188,34 +178,6 @@ transcribe_file("output.mp3")
 #
 #     wf.writeframes(b''.join(frames))
 #     wf.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # import os, requests, time
